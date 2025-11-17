@@ -1,5 +1,5 @@
 # Sorting_Visualizer
-Visit at: https://adarshaady17/Sorting-Visualizer/
+Visit at: https://github.com/Zuber-123/Sorting-Visualizer
 
 
 The Sorting Visualizer is web based project that aims to demonstrate diffrent sorting algorithms in a visual and interactive way. The user can select the sorting algorithm of choice and watch the visual representation of the sorting process in real time.
